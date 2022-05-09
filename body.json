@@ -1,0 +1,21 @@
+{
+  "name": "Łukasz",
+  "surname": "Piszczek",
+  "screeningId": 1,
+  "reservations": [
+    {
+      "seat": {
+        "row": 1,
+        "seatNumber": 4
+      },
+      "ticketType": "adult"
+    },
+    {
+      "seat": {
+        "row": 1,
+        "seatNumber": 5
+      },
+      "ticketType": "student"
+    }
+  ]
+}
